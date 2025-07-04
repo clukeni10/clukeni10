@@ -12,8 +12,8 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white)
 
  📈 GitHub Stats
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloslukeni&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslukeni&layout=compact)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clukeni10&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clukeni10&layout=compact)
 
  📫 Contato
 - Email: [carloslukeni110@gmail.com](mailto:carloslukeni110@gmail.com)

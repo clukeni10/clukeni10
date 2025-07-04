@@ -1,16 +1,20 @@
-## Hi there 👋
+ Olá, eu sou o Carlos Lukeni 👋
 
-<!--
-**clukeni10/clukeni10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Técnico Médio de GSI**  
+💻 **Desenvolvedor Web | Node | React | TypeScript**  
+📍 Angola
 
-Here are some ideas to get you started:
+ 🚀 Tecnologias
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📈 GitHub Stats
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carloslukeni&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloslukeni&layout=compact)
+
+ 📫 Contato
+- Email: [carloslukeni110@gmail.com](mailto:carloslukeni110@gmail.com)
+- LinkedIn: [linkedin.com/in/carlos-lukeni-956b52327]([https://linkedin.com/in/teulinkedin](https://www.linkedin.com/in/carlos-lukeni-956b52327/))
